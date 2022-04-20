@@ -9,7 +9,7 @@ local GUI = Mercury:Create{
 }
 
 GUI:Credit{
-	Name = "Chaotic_Void",
+	Name = "zxc",
 	Description = "Owner",
 }
 
